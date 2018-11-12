@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="taotaocartinterface" />
+        <module name="taotaocartservice" />
+        <module name="taotaocartweb" />
+        <module name="taotaocommon" />
+        <module name="taotaocontentinterface" />
+        <module name="taotaocontentservice" />
+        <module name="taotaoitemweb" />
+        <module name="taotaomanagerdao" />
+        <module name="taotaomanagerinterface" />
+        <module name="taotaomanagerpojo" />
+        <module name="taotaomanagerservice" />
+        <module name="taotaomanagerweb" />
+        <module name="taotaoorderinterface" />
+        <module name="taotaoorderpojo" />
+        <module name="taotaoorderservice" />
+        <module name="taotaoorderweb" />
+        <module name="taotaoportalweb" />
+        <module name="taotaosearchdao" />
+        <module name="taotaosearchinterface" />
+        <module name="taotaosearchservice" />
+        <module name="taotaosearchweb" />
+        <module name="taotaossointerface" />
+        <module name="taotaossoservice" />
+        <module name="taotaossoweb" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
